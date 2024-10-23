@@ -1,0 +1,57 @@
+# Byte-compiled files
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Log files
+*.log
+
+# Coverage reports
+.coverage
+*.cover
+
+# Test outputs
+nosetests.xml
+test-results/
+
+# Pylint
+pylint_report.txt
+pylint.log
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Local environment variables
+.env
+*.env
+
